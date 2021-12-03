@@ -22,6 +22,9 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
 html {
 	height: 100%;
 }
@@ -43,3 +46,67 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+ .SanBoy1{
+	position:relative;
+	background-color: gray;
+	height: 500px;
+	width: 490px;
+	margin: 20px;
+	border-radius: 50px;
+ }
+.SanBoy1_image{
+	height: 340px;
+	width: 400px;
+	margin: 20px;
+}
+main{
+	position:absolute;
+	background-image: url("..\img\DIKIy.png");
+}
+
+.SanBoy2{
+	position:relative;
+	background-color: gray;
+	height: 500px;
+	width: 490px;
+	border-radius: 50px;
+	left: 950px;
+ }
+
+.SanBoy2_image{
+	height: 305px;
+	width: 288px;
+	margin: 20px;
+ }
+
+ .SanBoy3{
+	position:relative;
+	background-color: gray;
+	height: 500px;
+	width: 490px;
+	margin: 20px;
+	border-radius: 50px;
+ }
+
+.SanBoy3_image{
+	height: 240px;
+	width: 352px;
+	margin: 20px;
+ }
+
+.SanBoy_text1{
+	font-size: 24px;
+	font-family: Raleway;
+}
+
+.SanBoy_text2{
+	font-size: 24px;
+	font-family: Raleway;
+}
+
+.SanBoy_text3{
+	font-size: 24px;
+	font-family: Raleway;
+}
+
