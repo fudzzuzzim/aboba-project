@@ -110,3 +110,38 @@ main{
 	font-family: Raleway;
 }
 
+.SanBoy1_button{
+	margin: 20px;
+}
+
+header{
+    background-color: gray;
+    height: 100px;
+    width: 100%;
+    font-size: 80px;
+    font-style: initial;;
+}
+input{
+    position: absolute;
+	margin-left: 970px;
+	margin-top: 30px;
+	background-color: black;
+	color:cornflowerblue;
+	border-radius: 90px;
+	padding: 10px;
+}
+h1{
+	display: inline;
+}
+button{
+	position: absolute;
+	margin-left: 650px;
+	background-color: black;
+	border-radius: 90px;
+	padding: 10px;
+	margin-top: 30px;
+	color: blanchedalmond;
+}
+
+>>>>>>> 51e8b9e579ea117d73e90fbca4e0956bb671ed83
+
