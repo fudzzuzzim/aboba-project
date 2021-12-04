@@ -153,7 +153,6 @@ h1{
 }
 footer{
 	position: relative;
-	top: 1636px;
 	height: 400px;
 	width: 100%;
 	background-color: gray;
@@ -178,7 +177,7 @@ a{
 	background-color: gray
 }
 .lox{
-    position: absolute;
+   position: absolute;
 	margin-left: 90px;
 	background-color: black;
 	border-radius: 90px;
