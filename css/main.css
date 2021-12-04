@@ -65,8 +65,10 @@ body{
 	margin: 20px;
 }
 main{
-	position:absolute;
-	background-image: url("..\img\DIKIy.png");
+	position:relative;
+	background-image: url("../img/DIKIy.png");
+	background-repeat: no repeat;
+	background-size: contain;
 }
 
 .SanBoy2{
