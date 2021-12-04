@@ -47,14 +47,18 @@ table {
 	border-spacing: 0;
 }
 
- .SanBoy1{
+body{
+	height: 2036px;
+}
+
+.SanBoy1{
 	position:relative;
 	background-color: gray;
 	height: 500px;
 	width: 490px;
 	margin: 20px;
 	border-radius: 50px;
- }
+}
 .SanBoy1_image{
 	height: 340px;
 	width: 400px;
@@ -72,28 +76,28 @@ main{
 	width: 490px;
 	border-radius: 50px;
 	left: 950px;
- }
+}
 
 .SanBoy2_image{
 	height: 305px;
 	width: 288px;
 	margin: 20px;
- }
+}
 
- .SanBoy3{
+.SanBoy3{
 	position:relative;
 	background-color: gray;
 	height: 500px;
 	width: 490px;
 	margin: 20px;
 	border-radius: 50px;
- }
+}
 
 .SanBoy3_image{
 	height: 240px;
 	width: 352px;
 	margin: 20px;
- }
+}
 
 .SanBoy_text1{
 	font-size: 24px;
@@ -112,17 +116,20 @@ main{
 
 .SanBoy1_button{
 	margin: 20px;
+	background-color: black;
+	border-radius: 90px;
+	color: white;
 }
 
 header{
-    background-color: gray;
-    height: 100px;
-    width: 100%;
-    font-size: 80px;
-    font-style: initial;;
+   background-color: gray;
+	height: 100px;
+   width: 100%;
+   font-size: 80px;
+   font-style: initial;;
 }
 input{
-    position: absolute;
+   position: absolute;
 	margin-left: 970px;
 	margin-top: 30px;
 	background-color: black;
@@ -133,7 +140,7 @@ input{
 h1{
 	display: inline;
 }
-button{
+.grisha__knopka{
 	position: absolute;
 	margin-left: 650px;
 	background-color: black;
@@ -141,4 +148,25 @@ button{
 	padding: 10px;
 	margin-top: 30px;
 	color: blanchedalmond;
+}
+footer{
+	position: relative;
+	top: 1636px;
+	height: 400px;
+	width: 100%;
+	background-color: gray;
+}
+.knopka__footer{
+	position: relative;
+	top: 50px;
+	left: 100px;
+	margin-left: 170px;
+	height: 60px;
+	width: 200px;
+	background-color: black;
+	border-radius: 90px;
+}
+a{
+	text-decoration: none;
+	color: white;
 }
