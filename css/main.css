@@ -51,6 +51,8 @@ body{
 	height: 2036px;
 }
 
+/*----------Саша----------*/
+
 .SanBoy1{
 	position:relative;
 	background-color: gray;
@@ -123,6 +125,9 @@ main{
 	color: white;
 }
 
+/*----------Саша----------*/
+/*----------Гриша----------*/
+
 header{
    background-color: gray;
 	height: 100px;
@@ -142,6 +147,29 @@ input{
 h1{
 	display: inline;
 }
+
+.lox{
+	position: absolute;
+	 margin-left: 90px;
+	 background-color: black;
+	 border-radius: 90px;
+	 padding: 10px;
+	 margin-top: 30px;
+	 color: blanchedalmond;
+ }
+ .lox_recurtion{
+	 position: absolute;
+	 margin-left: 410px;
+	 background-color: black;
+	 border-radius: 90px;
+	 padding: 10px;
+	 margin-top: 30px;
+	 color: blanchedalmond
+ }
+
+/*----------Гриша----------*/
+/*----------Максим----------*/
+
 .grisha__knopka{
 	position: absolute;
 	margin-left: 650px;
@@ -176,21 +204,5 @@ a{
 	width: 400px;
 	background-color: gray
 }
-.lox{
-   position: absolute;
-	margin-left: 90px;
-	background-color: black;
-	border-radius: 90px;
-	padding: 10px;
-	margin-top: 30px;
-	color: blanchedalmond;
-}
-.lox_recurtion{
-	position: absolute;
-	margin-left: 410px;
-	background-color: black;
-	border-radius: 90px;
-	padding: 10px;
-	margin-top: 30px;
-	color: blanchedalmond
-}
+
+/*----------Максим----------*/
